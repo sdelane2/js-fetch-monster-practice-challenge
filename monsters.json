@@ -6005,6 +6005,18 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "asdf",
+      "age": null,
+      "description": "asdf",
+      "id": 1002
+    },
+    {
+      "name": "asdf",
+      "age": "asdfasdf",
+      "description": "asdfasdf",
+      "id": 1003
     }
   ]
 }
